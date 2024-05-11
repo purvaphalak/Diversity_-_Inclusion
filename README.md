@@ -1,5 +1,9 @@
 # Diversity & Inclusion
 
+![Screenshot 2024-03-21 134653](https://github.com/purvaphalak/Diversity_-_Inclusion/assets/148857209/c10c893b-7995-4f45-8758-1f545248c66c)
+
+![Screenshot 2024-03-21 134739](https://github.com/purvaphalak/Diversity_-_Inclusion/assets/148857209/756f9d27-e7a9-45de-b239-147b5ee28bf2)
+
 ### Project Overview
 
 ✤ The task involves developing key performance indicators (KPIs) related to hiring, promotion, performance, and turnover, along with creating a visualization to track and communicate progress.

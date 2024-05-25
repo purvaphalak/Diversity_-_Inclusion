@@ -53,6 +53,7 @@ Unearthed some fascinating findings!
 
 5] 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 :
 -This section illustrates the turnover rate, indicating how many employees left the company in FY20, segmented by gender and job level.
+
 ✤ Graphs:
 - The upper graph shows the turnover rate for employees who left (Yes) versus those who stayed (No) for each job level.
 - The lower graph breaks down turnover rates by gender for each job level.

@@ -52,4 +52,33 @@ Unearthed some fascinating findings!
 - The average performance rate is 2.57 in FY19 & 2.41 in FY20, Male & female got almost same performance in both FY. Male received 2.58 while Female received 2.56 in 2019 & 2.41 received for Male & female for 2.42 in 2020.
 
 5] 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 :
-- 47 Employees has turnover out of 500 Employees the percentage rate is only 9.40% male % is 5.20 & for female 4.20%
+-This section illustrates the turnover rate, indicating how many employees left the company in FY20, segmented by gender and job level.
+✤ Graphs:
+- The upper graph shows the turnover rate for employees who left (Yes) versus those who stayed (No) for each job level.
+- The lower graph breaks down turnover rates by gender for each job level.
+
+✤Turnover Rate Values:
+Executive (Level 1): Female 3.00, Male 1.86
+Director (Level 2): Female 3.40, Male 3.09
+Senior Manager (Level 3): Female 1.80, Male 2.33
+Manager (Level 4): Female 2.37, Male 2.48
+Senior Officer (Level 5): Female 2.29, Male 2.68
+Junior Officer (Level 6): Female 2.13, Male 2.20
+
+- 47 Employees has turnover out of 500 Employees the percentage rate is only 9.40%,in which, male % is 5.20 & for female 4.20%
+
+### **Key Insights :** 
+
+- 𝐇𝐢𝐫𝐢𝐧𝐠: There is a higher percentage of female hires at the Junior Officer level, but as job levels increase, the percentage of female hires decreases significantly.
+ 
+- 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧: More females are being promoted at the Junior Officer level, but the number decreases at higher levels, though the percentage line indicates a higher promotion rate for females in some mid-level positions.
+
+- 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 : The turnover rate varies by job level and gender, with some levels showing higher turnover rates for females compared to males.
+This dashboard provides a comprehensive view of gender diversity across hiring, promotions, and turnover rates at PwC, highlighting areas where gender disparities exist.
+
+
+
+
+
+
+
